@@ -1,4 +1,4 @@
 # EarthCat
 
-> hello world
+> zjut_EarthCat_TrainingSituation
 
