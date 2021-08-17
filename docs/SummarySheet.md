@@ -1,6 +1,5 @@
 # SummarySheet
----
-# def
+
 - O for passing during the contest
 - Ø for passing after the contest
 - ! for attempted but failed
