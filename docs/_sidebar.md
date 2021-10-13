@@ -2,7 +2,6 @@
 
 * [Home]()  
 * [SummarySheet](SummarySheet)
-* [ToDoList](ToDoList)
 * Details
   * [Onsite](onsite)
   * 2021Summer
