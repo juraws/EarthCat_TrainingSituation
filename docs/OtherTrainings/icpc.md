@@ -15,8 +15,9 @@
 | [$2018icpc南京（除K题^1$](https://codeforces.ml/gym/101981) | 21-10-1  | *            | 6/12   | O    | ·    | ·    | O    | !    | ·    | O    | ·    | O    | O    |      | ·    | O    |
 | 2018icpc青岛                                                | 21-10-9  | *            | 7/13   | ·    | ·    | O    | O    | O    | O    | ·    | ·    | ·    | O    | ·    | O    | O    |
 | [$2017icpc西安^2$](https://vjudge.net/contest/462298#rank)  | 21-10-13 | *            | --     | O    | O    | ·    | ·    | O    | O    | O    | O    | ·    | O    | O    |      |      |
+| [2018icpc新加坡](https://vjudge.net/contest/463009#rank)    | 21-10-17 | 5/54（现场   | 10/12  | O    | O    | O    | O    | ·    | O    | O    | O    | ·    | O    | O    | O    |      |
 
-**statement:** 
+
 
 1.  K题袋鼠题
 2.  在vj全都一发过，赛后在计蒜客提交有几题不通过，感觉有点问题（非常有问题
