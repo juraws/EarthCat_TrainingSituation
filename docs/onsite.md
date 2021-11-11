@@ -1,6 +1,11 @@
 # Onsite
 
-# 补题情况汇总
+- O for passing during the contest
+- Ø for passing after the contest
+- ! for attempted but failed
+- · for having not attempted yet
+
+
 
 | Name                                                         | Date      | Rank    | Solved | 1A   | 2B   | 3C   | 4D   | 5E   | 6F   | 7G   | 8H   | 9I   | 10J  | 11K  | 12L  | 13M  |
 | ------------------------------------------------------------ | --------- | ------- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -9,13 +14,6 @@
 | 2021ICPC网络赛2                                              | 21-9-25   | 83/1831 | 7/13   | O    | ·    | ·    | ·    | ·    | ·    | O    | O    | ·    | O    | O    | O    | O    |
 | 2021CCPC网络赛（重赛                                         | 21-10-10  | 35/2k   | 9/12   | ·    | O    | ·    | O    | O    | O    | O    | O    | O    | O    | O    | !    |      |
 | [saikr2021-2022年度秋](http://oj.saikr.com/contest/15/problems) | 21- 10-24 | 8/1k    | 8/11   | !    | O    | O    | O    | O    | O    | O    |      | O    | O    | !    |      |      |
-
-
-
-- O for passing during the contest
-- Ø for passing after the contest
-- ! for attempted but failed
-- · for having not attempted yet
 
 
 
