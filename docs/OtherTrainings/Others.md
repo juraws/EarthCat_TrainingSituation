@@ -12,6 +12,7 @@
 | [NCPC 2020](https://vjudge.net/contest/462676#rank) | 21-10-16 | 3/（现场     | 11/13  | O    | O    | O    | O    | O    | O    | O    |      | O    | O    | O    |      | O    |
 | [SEERC 2020](https://codeforces.com/gym/103102)     | 21-10-27 | 40/133（现场 | 5/13   |      | O    |      |      | O    |      |      |      | O    |      |      | O    | O    |
 | [SWERC 2020](https://codeforces.com/gym/103081)     | 21-11-1  | 校2/4（1268  | 8/13   | O    |      | O    | O    | O    | O    | !    | O    | O    |      | O    |      |      |
+| [SEERC 2019](https://codeforces.com/gym/102392)     | 21-11-10 | 6/90（现场   | 7/11   |      | O    |      | O    | O    | O    | O    |      | O    | O    |      |      |      |
 
 
 
@@ -67,3 +68,16 @@ H ： 读错题
 前期挺顺的，后期节奏有点乱（读错H的输入格式之后查了非常久，就乱了
 
 G 有思路没时间写
+
+
+
+## SEERC 2019
+
+卡签到
+
+输入输出2e6 $\rightarrow$ scanf
+
+数据范围，边界问题
+
+长样例用clion对比
+
