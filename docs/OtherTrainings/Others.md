@@ -16,6 +16,7 @@
 | [SEERC 2021](https://codeforces.com/gym/103438)              | 22-2-7   | 16/116(现场)-2/5(校内8(11)(12)(13) | 7/14   | O    | ·    | !    | ·    | ·    | O    | O    | ·    | ·    | O    | O    | O    | ·    | O    |
 | [Latin American ICPC  2020-2021](https://codeforces.com/gym/103185) | 22-2-9   |                                    | 8/14   | ·    | Ø    | O    | O    | O    | ·    | ·    | O    | ·    | O    | O    | O    | ·    | O    |
 | [Latin American ICPC  2019-2020](https://codeforces.com/gym/102428) | 22-2-11  |                                    | 8/13   | !    | ·    | ·    | O    | O    | O    | O    | ·    | O    | ·    | O    | O    | O    | ·    |
+| [SWERC 2018](https://codeforces.com/gym/102465)              | 22-2-13  |                                    | 11/11  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |
 
 
 
@@ -91,6 +92,8 @@ G 有思路没时间写
 A题似乎是hash出问题了（下次尽量双hash
 
 ​	在表示“算法”的时候可以考虑直接转longlong（27进制）
+
+​	随机溢出过了
 
 几何题能用longlong就尽量别用double
 
