@@ -18,6 +18,7 @@
 | [Latin American ICPC  2019-2020](https://codeforces.com/gym/102428) | 22-2-11  |                                    | 8/13   | !    | ·    | Ø    | O    | O    | O    | O    | ·    | O    | ·    | O    | O    | O    | ·    |
 | [SWERC 2018](https://codeforces.com/gym/102465)              | 22-2-13  |                                    | 11/11  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |
 | [NEERC 2017](https://codeforces.com/gym/101630)              | 22-2-15  |                                    | 7/12   | O    | O    | O    | O    | O    | O    | ·    | ·    | Ø    | ·    | ·    | O    |      |      |
+| [Asia Tsukuba Regional Contest](https://codeforces.com/gym/101158) | 22-2-20  | 校排2                              | 7/11   | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |      |      |
 
 
 
@@ -114,3 +115,6 @@ F 向量加减的时候顺序，答案没有取绝对值
 
 G l[x] 写成l[0]
 
+## 2016-2017 ACM-ICPC, Asia Tsukuba Regional Contest
+
+> “模拟害人”
