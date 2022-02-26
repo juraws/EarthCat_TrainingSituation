@@ -19,6 +19,7 @@
 | [SWERC 2018](https://codeforces.com/gym/102465)              | 22-2-13  |                                    | 11/11  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |
 | [NEERC 2017](https://codeforces.com/gym/101630)              | 22-2-15  |                                    | 7/12   | O    | O    | O    | O    | O    | O    | ·    | ·    | Ø    | ·    | ·    | O    |      |      |
 | [Asia Tsukuba Regional Contest](https://codeforces.com/gym/101158) | 22-2-20  | 校排2                              | 7/11   | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |      |      |
+| [2021-2022 Russia Team Open, High School Programming Contest (VKOSHP XXII)](https://codeforces.com/gym/103483) | 22-2-25  |                                    | 8/12   | O    | ·    | ·    | O    | O    | O    | O    | O    | O    | ·    | O    | !    |      |      |
 
 
 
