@@ -1,6 +1,9 @@
 <!-- docs/_sidebar.md --> 
 
 * [Home]()  
+
+* [Summary](SummarySheet)
+
 * Details
   * [Onsite](onsite)
   * OtherTrainings

@@ -20,6 +20,7 @@
 | [NEERC 2017](https://codeforces.com/gym/101630)              | 22-2-15  |                                    | 7/12   | O    | O    | O    | O    | O    | O    | ·    | ·    | Ø    | ·    | ·    | O    |      |      |
 | [Asia Tsukuba Regional Contest](https://codeforces.com/gym/101158) | 22-2-20  | 校排2                              | 7/11   | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |      |      |
 | [2021-2022 Russia Team Open, High School Programming Contest (VKOSHP XXII)](https://codeforces.com/gym/103483) | 22-2-25  |                                    | 8/12   | O    | ·    | ·    | O    | O    | O    | O    | O    | O    | ·    | O    | !    |      |      |
+|                                                              |          |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
 
 
@@ -119,3 +120,12 @@ G l[x] 写成l[0]
 ## 2016-2017 ACM-ICPC, Asia Tsukuba Regional Contest
 
 > “模拟害人”
+
+
+
+
+
+## 2021-2022 Russia Team Open, High School 
+
+样例要测完
+
