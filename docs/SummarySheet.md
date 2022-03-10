@@ -234,7 +234,8 @@
 | [NEERC 2017](https://codeforces.com/gym/101630)              | 22-2-15  |                                    | 7/12   | O    | O    | O    | O    | O    | O    | ·    | ·    | Ø    | ·    | ·    | O    |      |      |
 | [Asia Tsukuba Regional Contest](https://codeforces.com/gym/101158) | 22-2-20  | 校排2                              | 7/11   | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |      |      |
 | [2021-2022 Russia Team Open, High School Programming Contest (VKOSHP XXII)](https://codeforces.com/gym/103483) | 22-2-25  |                                    | 8/12   | O    | ·    | ·    | O    | O    | O    | O    | O    | O    | ·    | O    | !    |      |      |
-|                                                              |          |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [2021-2022 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)](https://codeforces.com/gym/103414) | 22-3-4   |                                    | 11/12  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | !    |      |      |
+| [300iq Contest 2](https://codeforces.com/gym/102331)         | 22-3-10  |                                    | 3/11   | ·    | O    | ·    | ·    | ·    | ·    | O    | ·    | O    | ·    | ·    |      |      |      |
 
 
 
