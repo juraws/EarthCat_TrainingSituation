@@ -22,6 +22,8 @@
 | [2021-2022 Russia Team Open, High School Programming Contest (VKOSHP XXII)](https://codeforces.com/gym/103483) | 22-2-25  |                                    | 8/12   | O    | ·    | ·    | O    | O    | O    | O    | O    | O    | ·    | O    | !    |      |      |
 | [2021-2022 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)](https://codeforces.com/gym/103414) | 22-3-4   |                                    | 11/12  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | !    |      |      |
 | [300iq Contest 2](https://codeforces.com/gym/102331)         | 22-3-10  |                                    | 3/11   | ·    | O    | ·    | ·    | ·    | ·    | O    | ·    | O    | ·    | ·    |      |      |      |
+| [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388) | 22-3-11  |                                    | 8/14   | ·    | O    | O    | ·    | O    | ·    | O    | O    |      |      | O    |      | O    | O    |
+| [National Taiwan University NCPC Preliminary 2021](https://codeforces.com/gym/103328) | 22-3-13  |                                    | 8/12   |      | O    | O    | O    | O    |      |      | O    | O    | O    | O    |      |      |      |
 
 
 
@@ -142,3 +144,8 @@ G l[x] 写成l[0]
 
 (1ll << 64)
 
+
+
+## National Taiwan University NCPC Preliminary 2021
+
+pow函数 1e15误差太大
