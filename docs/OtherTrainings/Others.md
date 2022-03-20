@@ -24,6 +24,7 @@
 | [300iq Contest 2](https://codeforces.com/gym/102331)         | 22-3-10  |                                    | 3/11   | ·    | O    | ·    | ·    | ·    | ·    | O    | ·    | O    | ·    | ·    |      |      |      |
 | [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388) | 22-3-11  |                                    | 8/14   | ·    | O    | O    | ·    | O    | ·    | O    | O    |      |      | O    |      | O    | O    |
 | [National Taiwan University NCPC Preliminary 2021](https://codeforces.com/gym/103328) | 22-3-13  |                                    | 8/12   |      | O    | O    | O    | O    |      |      | O    | O    | O    | O    |      |      |      |
+| [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
 
 
 
@@ -149,3 +150,12 @@ G l[x] 写成l[0]
 ## National Taiwan University NCPC Preliminary 2021
 
 pow函数 1e15误差太大
+
+
+
+
+
+## 2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest
+
+二分答案的时候判下R行不行
+
