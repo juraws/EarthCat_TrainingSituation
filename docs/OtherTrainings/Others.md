@@ -25,6 +25,7 @@
 | [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388) | 22-3-11  |                                    | 8/14   | ·    | O    | O    | ·    | O    | ·    | O    | O    |      |      | O    |      | O    | O    |
 | [National Taiwan University NCPC Preliminary 2021](https://codeforces.com/gym/103328) | 22-3-13  |                                    | 8/12   |      | O    | O    | O    | O    |      |      | O    | O    | O    | O    |      |      |      |
 | [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
+| [The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801) | 22--3-27 |                                    | 10/12  |      | O    | O    | O    | O    |      | O    | O    | O    | O    | O    | O    |      |      |
 
 
 
@@ -159,3 +160,20 @@ pow函数 1e15误差太大
 
 二分答案的时候判下R行不行
 
+
+
+
+
+## The 14th Chinese Northeast Collegiate Programming Contest
+
+> 曼哈顿$\to$切比雪夫
+
+int写成char int写成bool
+
+初始化
+
+注释没删
+
+特判0
+
+题意
