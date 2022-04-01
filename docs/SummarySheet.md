@@ -20,6 +20,7 @@
 | 2021CCPC广州                                                 | 21-11-14  | 45/224  | 4/12   | ·    | ·    | O    | ·    | ·    | O    | ·    | O    | O    | ·    | ·    | ·    |      |
 | 2021ICPC上海                                                 | 21-11-28  | 20/628  | 8/13   | ·    | ·    | ·    | O    | O    | ·    | O    | O    | O    | O    | O    | ·    | O    |
 | 2022 字节跳动程序设计竞赛冬令营 网络赛                       | 21-12-11  |         |        |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 2022 第19届浙工大校赛                                        | 22-3-20   | 3/730   | 13/13  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |
 
 
 
@@ -238,6 +239,10 @@
 | [300iq Contest 2](https://codeforces.com/gym/102331)         | 22-3-10  |                                    | 3/11   | ·    | O    | ·    | ·    | ·    | ·    | O    | ·    | O    | ·    | ·    |      |      |      |
 | [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388) | 22-3-11  |                                    | 8/14   | ·    | O    | O    | ·    | O    | ·    | O    | O    |      |      | O    |      | O    | O    |
 | [National Taiwan University NCPC Preliminary 2021](https://codeforces.com/gym/103328) | 22-3-13  |                                    | 8/12   |      | O    | O    | O    | O    |      |      | O    | O    | O    | O    |      |      |      |
+| [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
+| [The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801) | 22--3-27 |                                    | 10/12  |      | O    | O    | O    | O    |      | O    | O    | O    | O    | O    | O    |      |      |
+| [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |
+| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | /10    |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
 
 
 
