@@ -27,7 +27,8 @@
 | [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
 | [The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801) | 22--3-27 |                                    | 10/12  |      | O    | O    | O    | O    |      | O    | O    | O    | O    | O    | O    |      |      |
 | [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |
-| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | /10    |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
+| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | 7/10   |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
+| [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
 
 
 
@@ -194,3 +195,14 @@ D没想到是**虚树**
 map自定义的不同版本问题
 
 IO 问题
+
+
+
+
+
+## 2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)
+
+**Hall’s marriage theorem**（稳定婚姻问题）给出了一组在二分图的一侧匹配覆盖一组节点存在的充要条件：对于集合A，def $N(A)$ 为A的邻边的集合，存在匹配覆盖A的充要条件是对于A的每个子集$|x| \le |N(x)|$ 都成立，
+
+> 这种某个东西成立等价于它的所有子集成立的思想 似曾相识
+

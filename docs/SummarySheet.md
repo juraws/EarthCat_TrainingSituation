@@ -242,7 +242,8 @@
 | [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
 | [The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801) | 22--3-27 |                                    | 10/12  |      | O    | O    | O    | O    |      | O    | O    | O    | O    | O    | O    |      |      |
 | [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |
-| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | /10    |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
+| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | 7/10   |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
+| [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
 
 
 
