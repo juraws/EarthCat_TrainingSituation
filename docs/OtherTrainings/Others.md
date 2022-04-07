@@ -29,6 +29,8 @@
 | [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |
 | [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | 7/10   |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
 | [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
+| [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |
+| [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
 
 
 
@@ -204,5 +206,22 @@ IO 问题
 
 **Hall’s marriage theorem**（稳定婚姻问题）给出了一组在二分图的一侧匹配覆盖一组节点存在的充要条件：对于集合A，def $N(A)$ 为A的邻边的集合，存在匹配覆盖A的充要条件是对于A的每个子集$|x| \le |N(x)|$ 都成立，
 
+Hall定理：若二分图存在完美匹配，且大小为n，那么取任意1≤k≤n，均满足X集选出k个不同的点，它们连向Y集的点的个数不小于k。
+
 > 这种某个东西成立等价于它的所有子集成立的思想 似曾相识
 
+
+
+
+
+## Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)
+
+
+
+## 2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)
+
+求圆凸包周长：将圆一万等分（5000好像也可以）后直接求凸包
+
+用求切线的方法刚开始没有考虑到 包含 和 最大圆内包含的圆内切线 问题
+
+切点在圆内需要删除

@@ -244,6 +244,8 @@
 | [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |
 | [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | 7/10   |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
 | [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
+| [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |
+| [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
 
 
 
