@@ -31,6 +31,7 @@
 | [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
 | [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |
 | [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
+| [2012-2013 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/gym/101656) | 22-4-8   |                                    | 9/12   | O    | O    |      | O    | O    | Ø    | O    | O    |      | O    | O    | O    |      |      |
 
 
 
@@ -225,3 +226,10 @@ Hall定理：若二分图存在完美匹配，且大小为n，那么取任意1�
 用求切线的方法刚开始没有考虑到 包含 和 最大圆内包含的圆内切线 问题
 
 切点在圆内需要删除
+
+
+
+
+
+## 2012-2013 ACM-ICPC Pacific Northwest Regional Contest
+
