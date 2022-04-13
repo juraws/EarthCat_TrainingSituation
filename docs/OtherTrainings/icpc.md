@@ -19,6 +19,7 @@
 | [2018icpc横滨](https://vjudge.net/contest/464131#rank)       | 21-10-23 | 23/64(现场)-4/4(校内123(10) | 5/11   | O    | O    | O    | !    | ·    | ·    | O    | ·    | ·    | ·    | O    |      |      |      |
 | [2020icpc首尔](https://codeforces.com/gym/102920)            | 21-11-3  | *                           | 7/12   | ·    | O    | O    | ·    | O    | ·    | O    | O    | !    | O    | ·    | O    |      |      |
 | [2021 icpc asia taipei](https://codeforces.com/gym/103443)   | 22-2-27  |                             | 9/13   | O    | O    | O    | O    | ·    | O    | O    | ·    | O    | O    | ·    | ·    | O    |      |
+| [2021 ICPC 澳门](https://ac.nowcoder.com/acm/contest/32720)  | 22-4-13  | 15/现场                     | 6/11   | O    | ·    | O    | Ø    | O    | O    | O    | ·    | ·    | ·    | O    |      |      |      |
 
 
 
