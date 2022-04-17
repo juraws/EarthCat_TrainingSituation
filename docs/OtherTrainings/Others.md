@@ -32,6 +32,7 @@
 | [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |
 | [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
 | [2012-2013 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/gym/101656) | 22-4-8   |                                    | 9/12   | O    | O    |      | O    | O    | Ø    | O    | O    |      | O    | O    | O    |      |      |
+| [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260) | 22-4-14  |                                    | 5/13   | O    |      |      |      |      |      | O    |      | O    | O    |      |      | O    |      |
 
 
 
@@ -233,3 +234,10 @@ Hall定理：若二分图存在完美匹配，且大小为n，那么取任意1�
 
 ## 2012-2013 ACM-ICPC Pacific Northwest Regional Contest
 
+
+
+
+
+## 2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)
+
+测出了一个板子问题（？
