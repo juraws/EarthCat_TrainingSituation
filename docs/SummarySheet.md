@@ -19,8 +19,10 @@
 | [saikr2021-2022年度秋](http://oj.saikr.com/contest/15/problems) | 21- 10-24 | 8/1k    | 8/11   | !    | O    | O    | O    | O    | O    | O    |      | O    | O    | !    |      |      |
 | 2021CCPC广州                                                 | 21-11-14  | 45/224  | 4/12   | ·    | ·    | O    | ·    | ·    | O    | ·    | O    | O    | ·    | ·    | ·    |      |
 | 2021ICPC上海                                                 | 21-11-28  | 20/628  | 8/13   | ·    | ·    | ·    | O    | O    | ·    | O    | O    | O    | O    | O    | ·    | O    |
-| 2022 字节跳动程序设计竞赛冬令营 网络赛                       | 21-12-11  |         |        |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 2022 字节跳动程序设计竞赛冬令营 网络赛                       | 21-12-11  | 75/     | 8/13   | O    | O    | O    | O    | O    |      | O    |      | O    |      | O    |      |      |
 | 2022 第19届浙工大校赛                                        | 22-3-20   | 3/730   | 13/13  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |
+| 2022浙江省赛                                                 | 22-4-16   | 5/      | 9/13   | O    | O    | O    |      | !    | O    | O    |      | O    | O    |      | O    | O    |
+| 2021 ICPC 昆明                                               | 22-4-17   | 23/     | 6/13   | O    | O    | !    | O    |      | O    | O    |      |      |      | O    |      |      |
 
 
 
@@ -201,6 +203,7 @@
 | [2018icpc横滨](https://vjudge.net/contest/464131#rank)       | 21-10-23 | 23/64(现场)-4/4(校内123(10) | 5/11   | O    | O    | O    | !    | ·    | ·    | O    | ·    | ·    | ·    | O    |      |      |      |
 | [2020icpc首尔](https://codeforces.com/gym/102920)            | 21-11-3  | *                           | 7/12   | ·    | O    | O    | ·    | O    | ·    | O    | O    | !    | O    | ·    | O    |      |      |
 | [2021 icpc asia taipei](https://codeforces.com/gym/103443)   | 22-2-27  |                             | 9/13   | O    | O    | O    | O    | ·    | O    | O    | ·    | O    | O    | ·    | ·    | O    |      |
+| [2021 ICPC 澳门](https://ac.nowcoder.com/acm/contest/32720)  | 22-4-13  | 15/现场                     | 6/11   | O    | ·    | O    | Ø    | O    | O    | O    | ·    | ·    | ·    | O    |      |      |      |
 
 
 
@@ -246,6 +249,8 @@
 | [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
 | [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |
 | [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
+| [2012-2013 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/gym/101656) | 22-4-8   |                                    | 9/12   | O    | O    |      | O    | O    | Ø    | O    | O    |      | O    | O    | O    |      |      |
+| [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260) | 22-4-14  |                                    | 5/13   | O    |      |      |      |      |      | O    |      | O    | O    |      |      | O    |      |
 
 
 
