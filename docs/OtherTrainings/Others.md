@@ -7,32 +7,39 @@
 
 
 
-| Name                                                         | Date     | Rank                               | Solved | 1A   | 2B   | 3C   | 4D   | 5E   | 6F   | 7G   | 8H   | 9I   | 10J  | 11K  | 12L  | 13M  | 14N  |
-| ------------------------------------------------------------ | -------- | ---------------------------------- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [NCPC 2020](https://vjudge.net/contest/462676#rank)          | 21-10-16 | 3/（现场                           | 11/13  | O    | O    | O    | O    | O    | O    | O    |      | O    | O    | O    |      | O    |      |
-| [SEERC 2020](https://codeforces.com/gym/103102)              | 21-10-27 | 40/133（现场                       | 5/13   |      | O    |      |      | O    |      |      |      | O    |      |      | O    | O    |      |
-| [SWERC 2020](https://codeforces.com/gym/103081)              | 21-11-1  | 校2/4（1268                        | 8/13   | O    |      | O    | O    | O    | O    | !    | O    | O    |      | O    |      |      |      |
-| [SEERC 2019](https://codeforces.com/gym/102392)              | 21-11-10 | 6/90（现场                         | 7/11   |      | O    |      | O    | O    | O    | O    |      | O    | O    |      |      |      |      |
-| [SEERC 2021](https://codeforces.com/gym/103438)              | 22-2-7   | 16/116(现场)-2/5(校内8(11)(12)(13) | 7/14   | O    | ·    | !    | ·    | ·    | O    | O    | ·    | ·    | O    | O    | O    | ·    | O    |
-| [Latin American ICPC  2020-2021](https://codeforces.com/gym/103185) | 22-2-9   |                                    | 8/14   | ·    | Ø    | O    | O    | O    | ·    | ·    | O    | ·    | O    | O    | O    | ·    | O    |
-| [Latin American ICPC  2019-2020](https://codeforces.com/gym/102428) | 22-2-11  |                                    | 8/13   | !    | ·    | Ø    | O    | O    | O    | O    | ·    | O    | ·    | O    | O    | O    | ·    |
-| [SWERC 2018](https://codeforces.com/gym/102465)              | 22-2-13  |                                    | 11/11  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |
-| [NEERC 2017](https://codeforces.com/gym/101630)              | 22-2-15  |                                    | 7/12   | O    | O    | O    | O    | O    | O    | ·    | ·    | Ø    | ·    | ·    | O    |      |      |
-| [Asia Tsukuba Regional Contest](https://codeforces.com/gym/101158) | 22-2-20  | 校排2                              | 7/11   | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |      |      |
-| [2021-2022 Russia Team Open, High School Programming Contest (VKOSHP XXII)](https://codeforces.com/gym/103483) | 22-2-25  |                                    | 8/12   | O    | ·    | ·    | O    | O    | O    | O    | O    | O    | ·    | O    | !    |      |      |
-| [2021-2022 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)](https://codeforces.com/gym/103414) | 22-3-4   |                                    | 11/12  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | !    |      |      |
-| [300iq Contest 2](https://codeforces.com/gym/102331)         | 22-3-10  |                                    | 3/11   | ·    | O    | ·    | ·    | ·    | ·    | O    | ·    | O    | ·    | ·    |      |      |      |
-| [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388) | 22-3-11  |                                    | 8/14   | ·    | O    | O    | ·    | O    | ·    | O    | O    |      |      | O    |      | O    | O    |
-| [National Taiwan University NCPC Preliminary 2021](https://codeforces.com/gym/103328) | 22-3-13  |                                    | 8/12   |      | O    | O    | O    | O    |      |      | O    | O    | O    | O    |      |      |      |
-| [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
-| [The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801) | 22--3-27 |                                    | 10/12  |      | O    | O    | O    | O    |      | O    | O    | O    | O    | O    | O    |      |      |
-| [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |
-| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | 7/10   |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |
-| [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |
-| [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |
-| [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
-| [2012-2013 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/gym/101656) | 22-4-8   |                                    | 9/12   | O    | O    |      | O    | O    | Ø    | O    | O    |      | O    | O    | O    |      |      |
-| [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260) | 22-4-14  |                                    | 5/13   | O    |      |      |      |      |      | O    |      | O    | O    |      |      | O    |      |
+| Name                                                         | Date     | Rank                               | Solved | 1A   | 2B   | 3C   | 4D   | 5E   | 6F   | 7G   | 8H   | 9I   | 10J  | 11K  | 12L  | 13M  | 14N  | 15O  |
+| ------------------------------------------------------------ | -------- | ---------------------------------- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [NCPC 2020](https://vjudge.net/contest/462676#rank)          | 21-10-16 | 3/（现场                           | 11/13  | O    | O    | O    | O    | O    | O    | O    |      | O    | O    | O    |      | O    |      |      |
+| [SEERC 2020](https://codeforces.com/gym/103102)              | 21-10-27 | 40/133（现场                       | 5/13   |      | O    |      |      | O    |      |      |      | O    |      |      | O    | O    |      |      |
+| [SWERC 2020](https://codeforces.com/gym/103081)              | 21-11-1  | 校2/4（1268                        | 8/13   | O    |      | O    | O    | O    | O    | !    | O    | O    |      | O    |      |      |      |      |
+| [SEERC 2019](https://codeforces.com/gym/102392)              | 21-11-10 | 6/90（现场                         | 7/11   |      | O    |      | O    | O    | O    | O    |      | O    | O    |      |      |      |      |      |
+| [SEERC 2021](https://codeforces.com/gym/103438)              | 22-2-7   | 16/116(现场)-2/5(校内8(11)(12)(13) | 7/14   | O    | ·    | !    | ·    | ·    | O    | O    | ·    | ·    | O    | O    | O    | ·    | O    |      |
+| [Latin American ICPC  2020-2021](https://codeforces.com/gym/103185) | 22-2-9   |                                    | 8/14   | ·    | Ø    | O    | O    | O    | ·    | ·    | O    | ·    | O    | O    | O    | ·    | O    |      |
+| [Latin American ICPC  2019-2020](https://codeforces.com/gym/102428) | 22-2-11  |                                    | 8/13   | !    | ·    | Ø    | O    | O    | O    | O    | ·    | O    | ·    | O    | O    | O    | ·    |      |
+| [SWERC 2018](https://codeforces.com/gym/102465)              | 22-2-13  |                                    | 11/11  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |
+| [NEERC 2017](https://codeforces.com/gym/101630)              | 22-2-15  |                                    | 7/12   | O    | O    | O    | O    | O    | O    | ·    | ·    | Ø    | ·    | ·    | O    |      |      |      |
+| [Asia Tsukuba Regional Contest](https://codeforces.com/gym/101158) | 22-2-20  | 校排2                              | 7/11   | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |      |      |      |
+| [2021-2022 Russia Team Open, High School Programming Contest (VKOSHP XXII)](https://codeforces.com/gym/103483) | 22-2-25  |                                    | 8/12   | O    | ·    | ·    | O    | O    | O    | O    | O    | O    | ·    | O    | !    |      |      |      |
+| [2021-2022 Saint-Petersburg Open High School Programming Contest (SpbKOSHP 21)](https://codeforces.com/gym/103414) | 22-3-4   |                                    | 11/12  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | !    |      |      |      |
+| [300iq Contest 2](https://codeforces.com/gym/102331)         | 22-3-10  |                                    | 3/11   | ·    | O    | ·    | ·    | ·    | ·    | O    | ·    | O    | ·    | ·    |      |      |      |      |
+| [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388) | 22-3-11  |                                    | 8/14   | ·    | O    | O    | ·    | O    | ·    | O    | O    |      |      | O    |      | O    | O    |      |
+| [National Taiwan University NCPC Preliminary 2021](https://codeforces.com/gym/103328) | 22-3-13  |                                    | 8/12   |      | O    | O    | O    | O    |      |      | O    | O    | O    | O    |      |      |      |      |
+| [2017-2018 Petrozavodsk Winter Training Camp, Saratov SU Contest](https://codeforces.com/gym/101741) | 22-3-18  |                                    | 7/12   | O    |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |      |
+| [The 14th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102801) | 22--3-27 |                                    | 10/12  |      | O    | O    | O    | O    |      | O    | O    | O    | O    | O    | O    |      |      |      |
+| [NWERC2020](https://codeforces.com/gym/103049)               | 22-3-31  |                                    | 8/11   | O    |      | O    | O    | O    | O    | Ø    | O    | O    |      | O    |      |      |      |      |
+| [The 13th Chinese Northeast Collegiate Programming Contest](https://codeforces.com/gym/102220) | 22-4-1   |                                    | 7/10   |      | O    | O    |      | O    | O    | O    | O    |      | O    |      |      |      |      |      |
+| [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](https://codeforces.com/gym/101173) | 22-4-3   |                                    | 6/12   | O    |      | O    |      |      | O    |      | O    |      | O    | O    |      |      |      |      |
+| [Samara Farewell Contest 2020 (XXI Open Cup, Grand Prix of Samara)](https://codeforces.com/gym/102916) | 22-4-5   | 校排4                              | 6/14   |      | O    |      | O    |      | !    | O    |      |      | O    | O    | Ø    | O    |      |      |
+| [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://codeforces.com/gym/101673) | 22-4-7   |                                    | 9/10   | O    | Ø    | O    | O    | O    | O    | O    | O    | O    | O    |      |      |      |      |      |
+| [2012-2013 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/gym/101656) | 22-4-8   |                                    | 9/12   | O    | O    |      | O    | O    | Ø    | O    | O    |      | O    | O    | O    |      |      |      |
+| [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260) | 22-4-14  |                                    | 5/13   | O    |      |      |      |      |      | O    |      | O    | O    |      |      | O    |      |      |
+| [2013-2014 Winter Petrozavodsk Camp, Andrew Stankevich Contest 45 (ASC 45)](https://codeforces.com/gym/100520) | 22-4-24  |                                    | 5/11   | O    | O    | O    | O    |      | O    | Ø    |      |      |      | Ø    |      |      |      |      |
+| [2009-2010 Winter Petrozavodsk Camp, Andrew Stankevich Contest 37 (ASC 37)](https://codeforces.com/gym/100431) | 22-4-28  |                                    | 6/9    | O    | O    |      | O    | O    | O    | O    |      |      |      |      |      |      |      |      |
+| [2022牛客五一集训派对day1](https://ac.nowcoder.com/acm/contest/33932?&headNav=www#question) | 22-5-1   |                                    | 4/11   |      | O    |      |      | O    |      | O    | O    |      |      |      |      |      |      |      |
+| [SWERC 2021-2022 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1662) | 22-5-3   |                                    | 8/15   | O    |      |      | O    |      | O    |      | O    | O    |      |      | O    | O    |      | O    |
+| [2018-2019 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/101987) | 22-5-8   |                                    | 8/12   | O    | O    | O    | O    | O    | O    |      |      |      |      | O    | O    |      |      |      |
+| 2019 Summer Petrozavodsk Camp, Day 8: XIX Open Cup Onsite    | 22-5-    |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [2021-2022 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103640) | 22-5-15  |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
 
 
@@ -241,3 +248,32 @@ Hall定理：若二分图存在完美匹配，且大小为n，那么取任意1�
 ## 2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Open Cup, Grand Prix of Nizhny Novgorod)
 
 测出了一个板子问题（？
+
+
+
+
+
+## 2009-2010 Winter Petrozavodsk Camp, Andrew Stankevich Contest 37 (ASC 37)
+
+`ifstream/ofstream`  只对当前函数模块有效
+
+测出了一个板子问题（？
+
+
+
+## 2019 Summer Petrozavodsk Camp, Day 8: XIX Open Cup Onsite
+
+计算几何，开根号的地方注意负数（包括精度问题造成的负数）
+
+
+
+## 2021-2022 ACM-ICPC Latin American Regional Programming Contest
+
+第二次卡FFT精度，换NTT双模数+CRT+改IO（scanf）
+
+FFT longlong内精度无误差 comment https://codeforces.com/blog/entry/48465?#comment-325890
+
+板子 https://pastebin.com/iEXmyHvs
+
+
+
