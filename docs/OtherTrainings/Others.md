@@ -40,6 +40,7 @@
 | [2018-2019 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/101987) | 22-5-8   |                                    | 8/12   | O    | O    | O    | O    | O    | O    |      |      |      |      | O    | O    |      |      |      |
 | 2019 Summer Petrozavodsk Camp, Day 8: XIX Open Cup Onsite    | 22-5-    |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | [2021-2022 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103640) | 22-5-15  |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1666) | 22-7-17  |                                    | 7/12   |      |      | O    | O    | O    | O    |      |      | O    | O    |      | O    |      |      |      |
 
 
 
@@ -276,4 +277,14 @@ FFT longlong内精度无误差 comment https://codeforces.com/blog/entry/48465?#
 板子 https://pastebin.com/iEXmyHvs
 
 
+
+
+
+
+
+## 2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)
+
+~~太久没做~~
+
+再后面是，**G**-3d计算几何（多项式求和）+并查集优化
 

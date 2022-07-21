@@ -23,6 +23,10 @@
 | 2022 第19届浙工大校赛                                        | 22-3-20   | 3/730   | 13/13  | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    |
 | 2022浙江省赛                                                 | 22-4-16   | 5/      | 9/13   | O    | O    | O    |      | !    | O    | O    |      | O    | O    |      | O    | O    |
 | 2021 ICPC 昆明                                               | 22-4-17   | 23/     | 6/13   | O    | O    | Ø    | O    |      | O    | O    | Ø    | Ø    |      | O    | Ø    |      |
+| 2022湖北省赛                                                 | 22-5-22   | 1/      | 9/13   | O    | O    | O    | O    | O    | O    |      |      |      | O    | O    | O    |      |
+| 2022江苏省赛                                                 | 22-5-28   | 6/      | 8/12   | O    | O    | O    |      |      |      | !    | O    | O    | O    | O    | O    |      |
+| 2022广东省赛                                                 | 22-6-5    | 12/     | 9/13   |      | O    |      | O    | O    | O    |      | O    |      | O    | O    | O    | O    |
+| 2021 ICPC  EC final（西安）                                  | 22-7-20   | 118/    | 4/13   | O    | O    |      | !    | !    |      |      |      | O    |      |      | O    |      |
 
 
 
@@ -207,7 +211,7 @@
 
 
 
-**statement**
+**statement**	
 
 1.  K题袋鼠题
 2.  在vj全都一发过，赛后在计蒜客提交有几题不通过，感觉有点问题（非常有问题
@@ -255,6 +259,10 @@
 | [2009-2010 Winter Petrozavodsk Camp, Andrew Stankevich Contest 37 (ASC 37)](https://codeforces.com/gym/100431) | 22-4-28  |                                    | 6/9    | O    | O    |      | O    | O    | O    | O    |      |      |      |      |      |      |      |      |
 | [2022牛客五一集训派对day1](https://ac.nowcoder.com/acm/contest/33932?&headNav=www#question) | 22-5-1   |                                    | 4/11   |      | O    |      |      | O    |      | O    | O    |      |      |      |      |      |      |      |
 | [SWERC 2021-2022 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1662) | 22-5-3   |                                    | 8/15   | O    |      |      | O    |      | O    |      | O    | O    |      |      | O    | O    |      | O    |
+| [2018-2019 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/101987) | 22-5-8   |                                    | 8/12   | O    | O    | O    | O    | O    | O    |      |      |      |      | O    | O    |      |      |      |
+| 2019 Summer Petrozavodsk Camp, Day 8: XIX Open Cup Onsite    | 22-5-    |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [2021-2022 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103640) | 22-5-15  |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1666) | 22-7-17  |                                    | 7/12   |      |      | O    | O    | O    | O    |      |      | O    | O    |      | O    |      |      |      |
 
 
 
