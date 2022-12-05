@@ -41,6 +41,7 @@
 | 2019 Summer Petrozavodsk Camp, Day 8: XIX Open Cup Onsite    | 22-5-    |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | [2021-2022 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103640) | 22-5-15  |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | [2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1666) | 22-7-17  |                                    | 7/12   |      |      | O    | O    | O    | O    |      |      | O    | O    |      | O    |      |      |      |
+| [XXII Open Cup. Grand Prix of Seoul](https://codeforces.com/gym/103855) | 22-9-16  |                                    | 8/13   |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
 
 
@@ -287,4 +288,10 @@ FFT longlong内精度无误差 comment https://codeforces.com/blog/entry/48465?#
 ~~太久没做~~
 
 再后面是，**G**-3d计算几何（多项式求和）+并查集优化
+
+
+
+
+
+## XXII Open Cup. Grand Prix of Seoul
 

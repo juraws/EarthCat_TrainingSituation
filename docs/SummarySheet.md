@@ -174,6 +174,7 @@
 
 | Name     | Date    | Rank | Solved | 1A   | 2B   | 3C   | 4D   | 5E   | 6F   | 7G   | 8H   | 9I   | 10J  | 11K  | 12L  | 13M  | 14N  |
 | -------- | ------- | ---- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 一       |         |      |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | 二       | 22-7-23 | 112  | 6/12   |      |      | O    | O    |      |      | O    |      |      | O    | O    | O    |      |      |
 | 三       | 22-7-25 | 345  | 4/10   | O    |      | O    |      |      |      |      | O    |      | O    |      |      |      |      |
 | 四       | 22-7-30 | 119  | 6/14   | O    |      |      | O    |      |      |      | O    |      |      | O    | O    |      | O    |
@@ -193,6 +194,8 @@
 
 | Name     | Date     | Rank | Solved | 1A   | 2B   | 3C   | 4D   | 5E   | 6F   | 7G   | 8H   | 9I   | 10J  | 11K  | 12L  | 13M  |
 | -------- | -------- | ---- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 一       |          |      |        |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 二       |          |      |        |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | $三^{2}$ | 22-7-26  | 215/ | 4/12   |      |      | O    |      |      |      |      |      | O    |      | O    | O    |      |
 | 四       | 22-7-28  | 195/ | 5/11   | O    |      |      | O    |      | O    | O    |      |      |      | O    |      |      |
 | 五       | 22-8-2   | 192/ | 4/12   |      |      | O    |      |      |      | O    |      |      | O    |      | O    |      |
@@ -317,6 +320,7 @@
 | 2019 Summer Petrozavodsk Camp, Day 8: XIX Open Cup Onsite    | 22-5-    |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | [2021-2022 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103640) | 22-5-15  |                                    |        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | [2021-2022 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1666) | 22-7-17  |                                    | 7/12   |      |      | O    | O    | O    | O    |      |      | O    | O    |      | O    |      |      |      |
+| [XXII Open Cup. Grand Prix of Seoul](https://codeforces.com/gym/103855) | 22-9-16  |                                    | 8/13   |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
 
 
